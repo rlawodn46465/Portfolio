@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+}
+footer {
+    width: 90%;
+    margin-left: 5%;
+    border-top: solid 2px skyblue;
+}
+h1{
+    margin-bottom: 0px;
+}
+h2{
+    margin-top: 0px;
+}
